@@ -43,8 +43,7 @@ It makes HTML elements contain extra information without using non-standard
 attributes, or other hacks like that.
 
 #### Consider HTML5 as an open web platform. What are the building blocks of HTML5?
-
-*Not answered yet*
+form elememts, integration with API, canvas SVG, images, video, audio
 
 #### Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 
